@@ -1,7 +1,7 @@
 import React from 'react'
 
 const BookList = ({data}) => {
-    console.log(data);
+    // console.log(data);
   return (
     <div className='w-[200px] h-[300px] border rounded-xl my-5'>
         <div>

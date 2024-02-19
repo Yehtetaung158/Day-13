@@ -16,8 +16,8 @@ return <div className="main">
     <NavComponents/>
     <Routes>
         <Route path="/" element={<HomePage/>}/>
-        <Route path="/detail/:id" element={<DetailBookPage/>} />
-        {/* <Route path="/detail/:slug" element={<DetailBookPage/>} /> */}
+        {/* <Route path="/detail/:id" element={<DetailBookPage/>} /> */}
+        <Route path="/detail/:slug" element={<DetailBookPage/>} />
         <Route path="*" element={<NotFound/>} />
     </Routes>
 </div> }
