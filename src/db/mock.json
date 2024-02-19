@@ -1,0 +1,79 @@
+{
+  "book": [
+    {
+      "id": 1,
+      "book": "Book 1",
+      "author": "Author 1",
+      "slug": "book-1",
+      "description": "Description of Book 1."
+    },
+    {
+      "id": 2,
+      "book": "Book 2",
+      "author": "Author 2",
+      "slug": "book-2",
+      "description": "Description of Book 2."
+    },
+    {
+      "id": 3,
+      "book": "Book 3",
+      "author": "Author 3",
+      "slug": "book-3",
+      "description": "Description of Book 3."
+    },
+    {
+      "id": 4,
+      "book": "Book 4",
+      "author": "Author 4",
+      "slug": "book-4",
+      "description": "Description of Book 4."
+    },
+    {
+      "id": 5,
+      "book": "Book 5",
+      "author": "Author 5",
+      "slug": "book-5",
+      "description": "Description of Book 5."
+    },
+    {
+      "id": 6,
+      "book": "Book 6",
+      "author": "Author 6",
+      "slug": "book-6",
+      "description": "Description of Book 6."
+    },
+    {
+      "id": 7,
+      "book": "Book 7",
+      "author": "Author 7",
+      "slug": "book-7",
+      "description": "Description of Book 7."
+    },
+    {
+      "id": 8,
+      "book": "Book 8",
+      "author": "Author 8",
+      "slug": "book-8",
+      "description": "Description of Book 8."
+    },
+    {
+      "id": 9,
+      "book": "Book 9",
+      "author": "Author 9",
+      "slug": "book-9",
+      "description": "Description of Book 9."
+    },
+    {
+      "id": 10,
+      "book": "Book 10",
+      "author": "Author 10",
+      "slug": "book-10",
+      "description": "Description of Book 10."
+    }
+  ],
+  "author": [
+    { "id": 1, "name": "Ye Htet Aung" },
+    { "id": 1, "name": "Ye Htet Aung" },
+    { "id": 1, "name": "Ye Htet Aung" }
+  ]
+}
